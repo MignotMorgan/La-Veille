@@ -33,7 +33,7 @@ Format à respecter:
 | 24/02/2018    | ----------       | Inconnu            |
 | 25/02/2018    | ----------       | Inconnu            |
 | 26/02/2018    | Félix            | Robots.txt         |
-| 27/02/2018    | ----------       | Inconnu            |
+| 27/02/2018    | Morgan           | Inconnu            |
 | 28/02/2018    | ----------       | Inconnu            |
 | 01/03/2018    | ----------       | Inconnu            |
 
